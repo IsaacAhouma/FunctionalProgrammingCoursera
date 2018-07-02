@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect contains all correct elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- difference contains all correct elements 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- difference contains all correct elements 2[0m[0m
+[0m[[0minfo[0m] [0m[32m-  Filter keeps all correct elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- Forall[0m[0m
+[0m[[0minfo[0m] [0m[32m- Exists[0m[0m
+[0m[[0minfo[0m] [0m[31m- Map *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  FunSets.contains($anon.this.s, 1) was true Map 4 (FunSetSuite.scala:180)[0m[0m
