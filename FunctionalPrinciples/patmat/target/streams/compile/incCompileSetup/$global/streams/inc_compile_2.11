@@ -1,0 +1,312 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package$.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> /Users/Familycomputer/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> /Users/Familycomputer/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> common.package
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+182 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> ::
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> <init>
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> ?0
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> A
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Any
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> B
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Boolean
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Class
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> File
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Function2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> List
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> None
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Object
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Option
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Predef
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> Some
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> String
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> URI
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> URL
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> _root_
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> child
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> children
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> common
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> exists
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> file
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> getClass
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> getResource
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> io
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> java
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> package
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> scala
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> subFile
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> toURI
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> <
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> <=
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> <repeated>
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> A
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> A1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Any
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> B
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Function2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> IndexOutOfBoundsException
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Iterator
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> MatchError
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Nothing
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Object
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Some
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> StringOps
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T0
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T3
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> T4
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> Tuple4
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> addLeafEncoding
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> character
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> combineTrees
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> count
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> cs
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> decodeChar
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> decodedSecret
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> encodeChar
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> encoding
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> isEmpty
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> isSingleton
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> l
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> list
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> makeLeaf
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> mergeCodeTables
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> moreTrees
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> quickEncode
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> r
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> s
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> seen
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> sort
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> sortWith
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> t
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> t1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> t2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> tail
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> tree1
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> tree2
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> unary_!
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> w
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+14 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1531454404000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1531454404000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1531454404000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$1.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1531500743000)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1531500743000)
+source stamps:
+2 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> hash(19992321afd5b436a6f0ceb1d98d94f337bd8894)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1500701265000)
+/Users/Familycomputer/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Familycomputer/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Product
+internal apis:
+2 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWSRy3bcdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpDDLFwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABAc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADB7qvwV0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMKjAm8XQAD2FkZExlYWZFbmNvZGluZ3NxAH4ADAgq9UB0AAV0aW1lc3NxAH4ADEvPZ+Z0AAYkaW5pdCRzcQB+AAzzaPoydAAHY29tYmluZXNxAH4ADJombp50AA5jb3B5JGRlZmF1bHQkM3NxAH4ADL4+j3J0AARjb3B5c3EAfgAMX9xEyHQADHN0cmluZzJDaGFyc3NxAH4ADNRg4Op0AAh0b1N0cmluZ3NxAH4ADI6HD+d0AAlzaW5nbGV0b25zcQB+AAzai14tdAACIT1zcQB+AAyiLWWqdAAIZ2V0Q2xhc3NzcQB+AAwaC9rBdAAJQ29kZVRhYmxlc3EAfgAMR2D433QADmNyZWF0ZUNvZGVUcmVlc3EAfgAMRfJBNnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMkk1yOnQABEZvcmtzcQB+AAwlxqCSdAADQml0c3EAfgAMspD1b3QAAm5lc3EAfgAMQ8CvyHQAE21ha2VPcmRlcmVkTGVhZkxpc3RzcQB+AAzgqY7xdAAIQ29kZVRyZWVzcQB+AAzHdG2RdAACZXFzcQB+AAyHeQSodAAHY29udmVydHNxAH4ADF4e7tV0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Al0wACWluaGVyaXRlZHEAfgCXTAAHcGFyZW50c3EAfgCXeHEAfgC0c3EAfgCvdXEAfgCSAAAAAHNxAH4Ar3VxAH4AkgAAAABzcQB+AK91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALN0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALNzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM1zcQB+AMB0AANBbnlzcQB+AMRzcQB+AMd1cQB+AMoAAAACc3EAfgDMdAAFc2NhbGFxAH4A03VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJSOsIF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB1L1VzZXJzL0ZhbWlseWNvbXB1dGVyL0VuZ2luZWVyaW5nL0Z1bmN0aW9uYWxQcm9ncmFtbWluZ0NvdXJzZXJhL0Z1bmN0aW9uYWxQcmluY2lwbGVzL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGZkjIa/VtDam8M6x2Y2U8ze9iJQ=
+external apis:
+0 items
+source infos:
+2 items
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/Familycomputer/Engineering/FunctionalProgrammingCoursera/FunctionalPrinciples/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAgAAAQAAALcAYCAgcHJpdmF0ZSBkZWYgZGVjb2RlQ2hhcih0cmVlOiBDb2RlVHJlZSwgYml0czogTGlzdFtCaXRdKTogKENoYXIsTGlzdFtCaXRdKSA9ICh0cmVlLGJpdHMpIG1hdGNoewEAABidAQAAAE4BAE4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAH8vVXNlcnMvRmFtaWx5Y29tcHV0ZXIvRW5naW5lZXJpbmcvRnVuY3Rpb25hbFByb2dyYW1taW5nQ291cnNlcmEvRnVuY3Rpb25hbFByaW5jaXBsZXMvcGF0bWF0L3NyYy9tYWluL3NjYWxhL3BhdG1hdC9IdWZmbWFuLnNjYWxhAQB/L1VzZXJzL0ZhbWlseWNvbXB1dGVyL0VuZ2luZWVyaW5nL0Z1bmN0aW9uYWxQcm9ncmFtbWluZ0NvdXJzZXJhL0Z1bmN0aW9uYWxQcmluY2lwbGVzL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQGlbWF0Y2ggbWF5IG5vdCBiZSBleGhhdXN0aXZlLgpJdCB3b3VsZCBmYWlsIG9uIHRoZSBmb2xsb3dpbmcgaW5wdXRzOiAoRm9yayhMZWFmKF8sIF8pLCBMZWFmKF8sIF8pLCBfLCBfKSwgTGlzdChfKSksIChGb3JrKExlYWYoXywgXyksIExlYWYoXywgXyksIF8sIF8pLCBOaWwpLCAoRm9yayhMZWFmKF8sIF8pLCBfLCBfLCBfKSwgTGlzdChfKSksIChGb3JrKExlYWYoXywgXyksIF8sIF8sIF8pLCBOaWwpLCAoRm9yayhfLCBMZWFmKF8sIF8pLCBfLCBfKSwgTGlzdChfKSksIChGb3JrKF8sIExlYWYoXywgXyksIF8sIF8pLCBOaWwpLCAoRm9yayhfLCBfLCBfLCBfKSwgTGlzdChfKSksIChGb3JrKF8sIF8sIF8sIF8pLCBOaWwpLCAoXywgTGlzdCgwKSksIChfLCBMaXN0KDEpKSwgKF8sIExpc3QoPz8pKSwgKF8sIExpc3QoXykpLCAoXywgTmlsKQEAAAEAAAEJAFEgIGRlZiBhZGRMZWFmRW5jb2RpbmcoZW5jb2Rpbmc6IENvZGVUYWJsZSwgYml0OiBCaXQpOiBDb2RlVGFibGUgPSBlbmNvZGluZyBtYXRjaHsBAAAo/QEAAABCAQBCICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQB/L1VzZXJzL0ZhbWlseWNvbXB1dGVyL0VuZ2luZWVyaW5nL0Z1bmN0aW9uYWxQcm9ncmFtbWluZ0NvdXJzZXJhL0Z1bmN0aW9uYWxQcmluY2lwbGVzL3BhdG1hdC9zcmMvbWFpbi9zY2FsYS9wYXRtYXQvSHVmZm1hbi5zY2FsYQEAfy9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvc3JjL21haW4vc2NhbGEvcGF0bWF0L0h1ZmZtYW4uc2NhbGEASm1hdGNoIG1heSBub3QgYmUgZXhoYXVzdGl2ZS4KSXQgd291bGQgZmFpbCBvbiB0aGUgZm9sbG93aW5nIGlucHV0OiBMaXN0KF8pAQAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJHLdtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJHMebR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJHaoXV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJH1x1p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJH+MX91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJIDYZZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJIF2lJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJRWBuF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZJSOsIF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdS9Vc2Vycy9GYW1pbHljb21wdXRlci9FbmdpbmVlcmluZy9GdW5jdGlvbmFsUHJvZ3JhbW1pbmdDb3Vyc2VyYS9GdW5jdGlvbmFsUHJpbmNpcGxlcy9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
