@@ -1,6 +1,6 @@
 import math.Ordering
 object mergeSort{
-  def mergeSort[T](list: List[T])(implicit ord: Ordering[T]): List[T] = {
+  def mergeSort[T](list: List[T])(lt: (T,T) => Boolean): List[T] = {
     val mid = list.length /2
     if (mid==0) list
     else {
@@ -15,22 +15,21 @@ object mergeSort{
       //      }
       //    }
       def merge[T](l1: List[T], l2:List[T]):List[T] = (l1,l2) match{
-        case (Nil,_) => _
-        case(_,Nil) => _
-        case(x::xs,y::ys) => if (ord.lt(x,y)) x::merge(xs,l2) else y::merge(l1,ys)
+        case (Nil,_) => l2
+        case(_,Nil) => l1
+        case(x::xs,y::ys) => if (lt(x,y)) x::merge(xs,l2) else y::merge(l1,ys)
       }
 
       def splitAt[T](ints: List[T], i: Int) = (ints take i,ints takeRight i)
       val (first,second) = splitAt(list,mid)
-      merge(mergeSort(first)(ord),mergeSort(second)(ord))
+      merge(mergeSort(first)(lt),mergeSort(second)(lt))
     }
 
   }
 
 
-  val unsorted = List(2,-4,5,7,1)
-  val sorted = mergeSort(unsorted)
-  sorted map (x => if(x>0) x else 0)
+  val sorted = List(2,-4,5,7,1)
+  mergeSort(sorted)((x:Int,y:Int) => x < y)
 }
 
 
